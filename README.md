@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardochaves&hide=html&layout=compact" /></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=ricardochaves&theme=default" /></td>
+  </tr>   
+</table>
+</center>
+
 <!--
 **ricardochaves/ricardochaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
