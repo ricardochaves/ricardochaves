@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## Some stats for funny
+## Some stats for fun
 
 <center>
 <table>
